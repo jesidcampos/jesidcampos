@@ -20,13 +20,13 @@ Soy Ingeniero de Sistemas con más de 10 años de experiencia en desarrollo de a
 
 ## 🚀 Proyectos destacados
 
-### 🖥️ [ProductoMVC](https://github.com/jesidcampos/ProductoMVC)
+### 🖥️ [Productos(MVC)](https://github.com/jesidcampos/ProductoMVC)
 Aplicación web en .NET MVC para gestión de productos. Incluye operaciones CRUD completas y conexión a SQL Server.
 
-### 🌦️ [weatherApp](https://github.com/jesidcampos/weatherApp)
+### 🌦️ [weatherApp(API)](https://github.com/jesidcampos/weatherApp)
 Aplicación que consume una API pública de clima. Demuestra manejo de peticiones HTTP, JSON y consumo de servicios externos.
 
-### 🧮 [CalculadoraNomina](https://github.com/jesidcampos/CalculadoraNomina)
+### 🧮 [CalculadoraNomina(Eventos)](https://github.com/jesidcampos/CalculadoraNomina)
 Calculadora funcional desarrollada como práctica de lógica de programación y manejo de eventos.
 
 ---
