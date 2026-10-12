@@ -26,7 +26,7 @@ Aplicación web en .NET MVC para gestión de productos. Incluye operaciones CRUD
 ### 🌦️ [weatherApp](https://github.com/jesidcampos/weatherApp)
 Aplicación que consume una API pública de clima. Demuestra manejo de peticiones HTTP, JSON y consumo de servicios externos.
 
-### 🧮 [calculator](https://github.com/jesidcampos/calculator)
+### 🧮 [CalculadoraNomina](https://github.com/jesidcampos/CalculadoraNomina)
 Calculadora funcional desarrollada como práctica de lógica de programación y manejo de eventos.
 
 ---
