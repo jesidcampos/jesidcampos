@@ -46,6 +46,8 @@ Calculadora funcional desarrollada como práctica de lógica de programación y 
 Ruta de aprendizaje de .NET con Docker y CI/CD.
 👉 [Ver repositorio](https://github.com/jesidcampos/dotnet-docker-learning)
 
+---
+
 ### 📫 Cómo contactarme
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesid-campos-barbosa/)
