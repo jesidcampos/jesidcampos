@@ -27,18 +27,24 @@ Actualmente, estoy expandiendo mi stack hacia el **Desarrollo de IA y MLOps**, c
 ### 🚀 Proyectos destacados
 
 **📈 API de Pronóstico de Ventas (IA & Docker)**
-Microservicio desarrollado con **Python, FastAPI y Scikit-Learn** para predecir la demanda de ventas en un retail. Incluye un modelo de Machine Learning (Random Forest) y está completamente dockerizado para producción. *(Este es tu proyecto estrella, demuestra que sabes desplegar IA)*.
+Microservicio desarrollado con **Python, FastAPI y Scikit-Learn** para predecir la demanda de ventas en un retail. Incluye un modelo de Machine Learning (Random Forest) y está completamente dockerizado para producción. 
+👉 [Ver repositorio](https://github.com/jesidcampos/api-pronostico-ventas-ia)
 
 **🖥️ Productos (MVC)**
 Aplicación web en **.NET MVC** para gestión de productos. Incluye operaciones CRUD completas y conexión a SQL Server.
+👉 [Ver repositorio](https://github.com/jesidcampos/ProductoMVC)
 
 **🌦️ WeatherApp (API)**
 Aplicación que consume una API pública de clima. Demuestra manejo de peticiones HTTP, JSON y consumo de servicios externos.
+👉 [Ver repositorio](https://github.com/jesidcampos/weatherApp)
 
 **🧮 CalculadoraNomina (Eventos)**
 Calculadora funcional desarrollada como práctica de lógica de programación y manejo de eventos.
+👉 [Ver repositorio](https://github.com/jesidcampos/CalculadoraNomina)
 
----
+**🐳 .NET Docker Learning**
+Ruta de aprendizaje de .NET con Docker y CI/CD.
+👉 [Ver repositorio](https://github.com/jesidcampos/dotnet-docker-learning)
 
 ### 📫 Cómo contactarme
 
